@@ -1,5 +1,6 @@
 # README
 This is an add-on to Saccflight written in U#
+I'd appreciate it if you could leave a credit when using it
 
 ## Features
 
@@ -16,7 +17,6 @@ BallisticCalculator.cs
 
 ### Physical Force Bomb
 SAV_BombController_Force.cs
-
 * SAV_BombController now can push out players and RigidBody around them when a projectile explodes
 ### Prefab
 * It includes SF-1 prefab with these features.
