@@ -19,7 +19,7 @@ SAV_BombController_Force.cs
 
 * SAV_BombController now can push out players and RigidBody around them when a projectile explodes
 ### Prefab
-* And it includes SF-1 prefab with these features.
+* It includes SF-1 prefab with these features.
 
 
 # Reference
