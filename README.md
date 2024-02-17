@@ -1,6 +1,6 @@
 # README
-This is an add-on to Saccflight written in U#
-I'd appreciate it if you could leave a credit when using it
+* This is an add-on to Saccflight written in U#
+* It's an MIT license, But i'd appreciate it if you could leave a credit when using it
 
 ## Features
 
