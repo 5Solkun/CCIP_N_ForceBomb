@@ -7,10 +7,10 @@
 ### Ballistic calculator
 BallisticCalculator.cs
 
+* A script that calculates and displays the ballistic curve and the impact point
 * Based on the gravitational acceleration and projected speed in each frame, predict as much as "Integer: Number Of Prediction Points" at intervals of "Float: interval".
 * Projectiles can be predicted after launch for the time of "Number Of Predict Points" * "interval"
 * If the value "interval" is too high, the error may increase
-* A script that calculates and displays the ballistic curve and the impact point
 * The higher the number of "Number Of Predict Points", the higher the load
 * "muzzleVelocity": You can also predict armaments such as rockets and artillery by entering the same value as "LaunchSpeed" in "SAV_BombController."
 * #### Calculating drag is not functioning properly, only projectiles with zero air resistance can be calculated, So Please set "AirPhysics Strength" of "SAV_BombController" to 0
